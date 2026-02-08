@@ -86,7 +86,7 @@ Example :
 - Adidas section inside Lifestyle / Shoppers Stop
 - A sports brand selling inside a multi-brand retail outlet
 So the sale is:
-N- ot pure online
+- Not pure online
 - Not company-owned exclusive store
 - Not distributor/wholesale
 - It’s a shop-in-shop model
