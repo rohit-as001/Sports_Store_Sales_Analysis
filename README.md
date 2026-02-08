@@ -75,3 +75,18 @@ The dashboard supports dynamic analysis across Year, Product Category, and Order
 ## Conclusion
 This dashboard provides a holistic view of sales performance and customer behavior.
 By leveraging these insights, management can improve product quality, reduce returns, optimize sales channels, and enhance customer satisfaction, leading to sustainable revenue growth.
+
+### Note : “Concession” mean in the Order Channel
+In sales/retail datasets, Order Channel tells you where or how the sale happened.
+The product was sold through a concession counter or partner store, not a standalone store or direct online channel.
+One brand sells its products inside another retailer’s store
+
+Example :
+- Nike counter inside a large mall store
+- Adidas section inside Lifestyle / Shoppers Stop
+- A sports brand selling inside a multi-brand retail outlet
+So the sale is:
+N- ot pure online
+- Not company-owned exclusive store
+- Not distributor/wholesale
+- It’s a shop-in-shop model
