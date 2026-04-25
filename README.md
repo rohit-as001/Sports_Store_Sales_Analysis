@@ -10,7 +10,7 @@ The dashboard supports dynamic analysis across Year, Product Category, and Order
 
 
 ## Key KPIs
-- Total Product Categories Sold: 9,602
+- Total Product Categories Sold: 8
 - Total Sales: $4.5M
 - Average Customer Rating: 3.83 / 5
 
